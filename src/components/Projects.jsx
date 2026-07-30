@@ -7,21 +7,21 @@ const Projects = () => {
       title: "Road Damage Detection System",
       description: "An intelligent system that detects and classifies road defects (such as potholes and cracks) using computer vision/machine learning models to assist in automated road maintenance.",
       techStack: ["Python", "OpenCV", "Machine Learning", "React", "Tailwind CSS"],
-      github: "https://github.com", // ඔයාගේ GitHub Repo Link එක දාන්න
-      demo: "https://example.com",   // Live Link එකක් තියේ නම් දාන්න
+      github: "https://github.com/Pahasara-Kodagoda", 
+      demo: "https://example.com",   
     },
     {
       title: "Encryption & Decryption Cipher System",
       description: "A secure software application implementing custom and standard cryptographic algorithms (ciphers) for encoding and decoding confidential data.",
       techStack: ["Software Engineering", "Cryptography", "JavaScript / Python", "Data Security"],
-      github: "https://github.com",
+      github: "https://github.com/Pahasara-Kodagoda/MystiCrypt",
       demo: "https://example.com",
     },
     {
       title: "University GPA Calculator",
       description: "A specialized utility web application designed for university students to calculate semester and cumulative GPA (CGPA) based on course credits and grades.",
       techStack: ["React", "JavaScript", "Tailwind CSS", "Vite"],
-      github: "https://github.com",
+      github: "https://github.com/Pahasara-Kodagoda/University-GPA-Calculator",
       demo: "https://example.com",
     },
   ];
