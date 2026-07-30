@@ -24,8 +24,7 @@ Welcome to my personal developer portfolio! This repository contains the source 
 
 ## 🚀 Live Demo
 
-🔗 **Check out my live portfolio:** [https://Pahasara-Kodagoda.github.io](https://Pahasara-Kodagoda.github.io) 
-
+🔗 **Check out my live portfolio:** [[https://Pahasara-Kodagoda.github.io](https://Pahasara-Kodagoda.github.io](https://portfolio2026-chi-one.vercel.app)
 ---
 
 ## 💻 Local Setup & Development
