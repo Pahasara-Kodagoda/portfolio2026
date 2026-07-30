@@ -1,16 +1,37 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal developer portfolio! This repository contains the source code for my portfolio website, showcasing my projects, technical skills, background in **Software Engineering**, and passion for **Clean Architecture** and **Linux environments**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 📱 **Fully Responsive:** Smooth layout optimized for desktops, tablets, and mobile devices.
+- ⚡ **Fast & Lightweight:** Built for high performance and quick load times.
+- 🛠️ **Project Showcase:** Highlights key projects with live demos and repository links.
+- 👨‍💻 **About & Skills Section:** Details my tech stack, engineering workflow, and interests.
+- 📬 **Contact Form / Links:** Easy ways for recruiters and collaborators to reach out.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Frontend:** HTML5, CSS3, JavaScript (or React / Vue / Next.js)
+- **Styling:** CSS Modules / Tailwind CSS / SCSS *(ඔබ භාවිත කළ styling ක්‍රමය අනුව වෙනස් කරන්න)*
+- **Hosting / Deployment:** GitHub Pages / Vercel / Netlify
+
+---
+
+## 🚀 Live Demo
+
+🔗 **Check out my live portfolio:** [https://Pahasara-Kodagoda.github.io](https://Pahasara-Kodagoda.github.io) 
+
+---
+
+## 💻 Local Setup & Development
+
+To clone and run this portfolio locally on your machine:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/Pahasara-Kodagoda/portfolio.git](https://github.com/Pahasara-Kodagoda/portfolio.git)
